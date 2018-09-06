@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Metal and classic rock music
+* Action movies
+* Video games
