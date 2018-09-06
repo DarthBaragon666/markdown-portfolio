@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[The official website of Chuck Norris](http://chucknorris.com)
